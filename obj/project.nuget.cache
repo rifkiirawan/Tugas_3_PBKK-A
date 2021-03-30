@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dePzeX49nCVHtv7vCVsAan1RRvpZ4jOUVse+AacPgnxRx8Jl4w5/kVIxmN12Fas3LyY58eAWw605THf/Ofnq+A==",
+  "success": true,
+  "projectFilePath": "D:\\Sem 6\\PBKK\\Live Currency Exchange\\Live Currency Exchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

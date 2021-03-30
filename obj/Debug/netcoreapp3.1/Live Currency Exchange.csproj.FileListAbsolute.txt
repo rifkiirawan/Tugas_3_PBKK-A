@@ -1,0 +1,34 @@
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.exe
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.deps.json
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.runtimeconfig.json
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.dll
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.pdb
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live_Currency_Exchange.excForm.resources
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.dll
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.pdb
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Live Currency Exchange\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.CopyComplete
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.exe
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.deps.json
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.runtimeconfig.json
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.runtimeconfig.dev.json
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.dll
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Live Currency Exchange.pdb
+D:\Sem 6\PBKK\Live Currency Exchange\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csprojAssemblyReference.cache
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live_Currency_Exchange.excForm.resources
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.GenerateResource.cache
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.AssemblyInfoInputs.cache
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.AssemblyInfo.cs
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.CoreCompileInputs.cache
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.csproj.CopyComplete
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.dll
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.pdb
+D:\Sem 6\PBKK\Live Currency Exchange\obj\Debug\netcoreapp3.1\Live Currency Exchange.genruntimeconfig.cache
